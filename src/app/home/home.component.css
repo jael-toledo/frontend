@@ -1,0 +1,42 @@
+body
+{
+  margin:0px;
+  padding:0px;
+	font-family: "Open Sans", arial;
+	background:#ededed;
+	color:#000;
+	font-weight:300;
+
+}
+
+.container{
+    background-color: #ededed;
+    padding-top: 70px;
+}
+
+
+.row.content {
+    height: 100%
+}
+
+.demo-table {
+  width: 100%;
+}
+
+.mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-row:hover .mat-cell {
+  border-color: currentColor;
+}
+
+.btn-codigo {
+  background-color: #09427d;
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+

@@ -1,0 +1,14 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #09427d;
+
+}
+
+mat-toolbar{
+    color: #09427d;
+    position: fixed;
+}
